@@ -1215,7 +1215,7 @@
         <img id="background" class="absolute -left-20 top-0 max-w-[877px]"
             src="https://laravel.com/assets/img/welcome/background.svg" alt="Laravel background" />
 
-        <h1>hello this is h1</h1>
+        <h1 class="h1">hello this is h1</h1>
 
         <h1>hello</h1>
         <div
